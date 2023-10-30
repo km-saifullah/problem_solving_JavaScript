@@ -8,7 +8,7 @@ number3 = 37;
 if (number1 > number2 && number1 > number3) {
   console.log(`${number1} is biggest!`);
 } else if (number2 > number1 && number2 > number3) {
-  console.log(`${number2} is biggest`);
+  console.log(`${number2} is biggest!`);
 } else {
-  console.log(`${number3} is biggest`);
+  console.log(`${number3} is biggest!`);
 }
